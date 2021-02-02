@@ -1,0 +1,17 @@
+import java.io;
+
+class a {
+	void main(string[] args)
+	{
+		// written by John originally
+		System.io.print("hello wsu!");
+		
+		int a = 0;
+		int b = 1;
+
+		
+		// changed by David
+		System.out.println("yes I changed this!");
+		
+	}
+}
