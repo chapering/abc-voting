@@ -6,7 +6,7 @@ class a {
 		// written by John originally
 		System.io.print("hello wsu!");
 		
-		int a = 0;
+		int a = 200;
 		int b = 1;
 
 		
